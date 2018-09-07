@@ -1,6 +1,0 @@
-CREATE OR REPLACE PROCEDURE TEST_GIT 
-AS
-BEGIN
-  DBMS_OUTPUT.PUT_LINE('Testing git repository.');
-  DBMS_OUTPUT.PUT_LINE('Hopefully this works.');
-END TEST_GIT;
